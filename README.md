@@ -1,5 +1,4 @@
-# Docs
-
+Docs
 Aquest repositori és un clone del projecte realitzat als screencasts:
 
 https://tubeme.acacha.org/php
@@ -15,8 +14,6 @@ I el resultat final de l'aplicació a:
 http://phpforlaravel.marcqueral.me
 
 i la clona amb Laravel a:
-
-
 
 Aquest codi i screencasts han estat creats per Marc Queral Fortuño: https://github.com/MarcQueral
 

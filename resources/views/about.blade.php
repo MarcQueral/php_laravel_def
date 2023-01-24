@@ -6,7 +6,12 @@
             </div>
         </header>
         <main>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aperiam commodi id nostrum qui sit, tempore tenetur voluptas! Dolorem excepturi facilis hic, ipsam libero maiores molestiae nobis non optio sed.
+            Aquest codi ha estat creat per Marc Queral Fortuño. Github: https://github.com/MarcQueral
+            Codi font: https://github.com/MarcQueral/php_laravel
+            Llista de reporducció youtube: https://tubeme.acacha.org/php
+            URL aplicació en explotació: http://phpforlaravel.marcqueral.me/
+
+            Consulteu els screencasts del canal de Youtube acacha_dev per crear aquesta web.
         </main>
     </div>
 </x-layout>
